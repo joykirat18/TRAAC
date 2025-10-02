@@ -6,7 +6,7 @@ set -x
 
 export HUGGINGFACE_TOKEN='None'
 export HF_TOKEN='None'
-export CUDA_VISIBLE_DEVICES=0,1
+export CUDA_VISIBLE_DEVICES=1,2
 EXPERIMENT_NAME=qwen4b_dapo_math_10k_context_linear_reward_with_summary_attention
 WANDB_API_KEY='None'
 SAVE_PATH=verlCheckpoint/Summary/$EXPERIMENT_NAME
