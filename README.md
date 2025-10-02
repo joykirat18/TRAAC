@@ -1,4 +1,4 @@
-# [Think Right: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression] ()
+# [Think Right: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression]()
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -83,7 +83,7 @@ The host model script is located at [`scripts/train`](scripts/train):
 ```bash
 CUDA_VISIBLE_DEVICES=0 python model_host_qwen.py
 ```
-### Step 2: Training TRAAC
+### Step 2: Training TRAAC (Qwen3-4B)
 ```bash
 source run_qwen3-4b-with-summary-linear-reward-attention.sh
 ```
