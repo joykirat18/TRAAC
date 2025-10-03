@@ -1,6 +1,6 @@
-# [Think Right: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression]()
+# [Think Right: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression](https://arxiv.org/abs/2510.01581)
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)]()
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2510.01581)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [Joykirat Singh](https://joykirat18.github.io/) | [Justin Chih-Yao Chen](https://dinobby.github.io/) | [Archiki Prasad](https://archiki.github.io/) | [Elias Stengel-Eskin](https://esteng.github.io/) | [Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/) | [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
@@ -94,5 +94,13 @@ The file [`vllm_rollout_spmd.py`](/verl/workers/rollout/vllm_rollout/vllm_rollou
 ## Citation
 If you find this work useful, please consider citing us:
 ```bibtex
-
+@misc{singh2025thinkrightlearningmitigate,
+      title={Think Right: Learning to Mitigate Under-Over Thinking via Adaptive, Attentive Compression}, 
+      author={Joykirat Singh and Justin Chih-Yao Chen and Archiki Prasad and Elias Stengel-Eskin and Akshay Nambi and Mohit Bansal},
+      year={2025},
+      eprint={2510.01581},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.01581}, 
+}
 ```
